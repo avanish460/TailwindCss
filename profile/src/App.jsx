@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Card />
+      <Card name="Avanish Dubey" no="17" location="India" />
     </>
   )
 }
