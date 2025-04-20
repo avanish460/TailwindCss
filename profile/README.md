@@ -1,6 +1,6 @@
 # Final Output
 
-- [Final product ScreenShot](./public/Screenshot%202025-04-20%20170500.png)
+![Final product ScreenShot](./public/Screenshot%202025-04-20%20170500.png)
 
 # React + Vite
 
