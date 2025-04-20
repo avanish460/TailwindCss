@@ -1,7 +1,7 @@
 export function Card(props){
     return (
-        <div className="relateive">
-            <div className="ml-120 mt-20 w-100 h-100 rounded-lg shadow-xl">
+        <div className="relative">
+            <div className="ml-10 md:ml-120 mt-20 w-100 h-100 rounded-lg shadow-xl">
                 <div className="w-100 h-40 bg-cyan-500 rounded-t-lg"></div>
                 <div className=" absolute ml-35 -mt-14">
                     <img className="h-30 w-30 rounded-full shadow-xl" src="profilePic.png" alt="" />
